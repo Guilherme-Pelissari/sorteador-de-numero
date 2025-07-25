@@ -68,6 +68,7 @@ Este projeto foi feito para reforçar:
 
 ## 🪪 Licença
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 Este projeto está licenciado sob a **MIT License**.
 
 ---
